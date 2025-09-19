@@ -10,3 +10,5 @@ SCOPUS_API_KEY=603f13564a4b9ea34e21d5a7db073a65
 # (Optional) Crossref and arXiv don’t require API keys
 
 
+
+google api key : AIzaSyD7YlCW9ttGr6DcWcXFwD9LxMHyoHL_s48

@@ -12,3 +12,5 @@ SCOPUS_API_KEY=603f13564a4b9ea34e21d5a7db073a65
 
 
 google api key : AIzaSyD7YlCW9ttGr6DcWcXFwD9LxMHyoHL_s48
+
+https://gitlab.com/crossref/tutorials/intro-to-crossref-api-using-python/-/blob/main/Crossref_API_query_template.ipynb?ref_type=heads
